@@ -18,22 +18,15 @@ Code and assignments shall also be available here.
 * BIT 1106 - Introduction to Computer Application Packages
 * BMA 1106 - Foundation Mathematics
 * BUCU 001 - Communication Skills
+ 
+### CAT1
 
-#### Resources
-
-#### Assignments
-
-* BIT 1106 - Due February 28th 2019 
-
-#### CAT1
-
+* BIT 1102 - Due February 28th 2019
 * BIT 1106 - Due February 28th 2019
 * BUCU 001 - Due March 13th 2019
-* BMA 1106 - Due April 11th 2019
-* BIT 1102 - Due Feb 28th 2019
 * BBM 1202 - Due March 21st 2019
 * BBM 1101 - Due March 1st 2019
-
+* BMA 1106 - Due April 11th 2019
 #### CAT2
 
 #### Semester Exam

@@ -22,7 +22,8 @@ Code and assignments shall also be available here.
 ### CAT1
 
 * BIT 1102 - Due February 28th 2019
-* BIT 1106 - Due February 28th 2019
+* BIT 1106 - Due February 28th 2019 (For Linux users who dont have Ms Word, and use wps instead, you have
+to download the following fonts. Arial Black and Britannic Bold. Also the clip art is not availale on wps.)
 * BUCU 001 - Due March 13th 2019
 * BBM 1202 - Due March 21st 2019
 * BBM 1101 - Due March 1st 2019

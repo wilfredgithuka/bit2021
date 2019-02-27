@@ -22,8 +22,10 @@ Code and assignments shall also be available here.
 ### CAT1
 
 * BIT 1102 - Due February 28th 2019
-* BIT 1106 - Due February 28th 2019 (For Linux users who dont have Ms Word, and use wps instead, you have
-to download the following fonts. Arial Black and Britannic Bold. Also the clip art is not availale on wps.)
+* BIT 1106 - Due February 28th 2019 (SUBMITTED)(For ArchLinux users who dont have Ms Word, and use wps instead, you have
+to download the following fonts. Arial Black and Britannic Bold. Arial Black is available from AUR(ttf-ms-fonts).
+Also the clip art for this assignment is not availale on wps. I used a Windows PC then copied the document back to 
+wps. I was not successful in installing the Britannic Bold font so I just looked for a Windows PC then submitted.)
 * BUCU 001 - Due March 13th 2019
 * BBM 1202 - Due March 21st 2019
 * BBM 1101 - Due March 1st 2019

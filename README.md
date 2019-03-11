@@ -19,7 +19,8 @@ Code and assignments shall also be available here.
 * BMA 1106 - Foundation Mathematics
 * BUCU 001 - Communication Skills
  
-### CAT1
+### CATs & Assignments
+
 * BUCU 001 - Due March 13th 2019
 * BBM 1202 - Due March 21st 2019
 * BMA 1106 - Due April 11th 2019
@@ -29,14 +30,13 @@ to download the following fonts. Arial Black and Britannic Bold. Arial Black is 
 Also the clip art for this assignment is not availale on wps. I used a Windows PC then copied the document back to 
 wps. I was not successful in installing the Britannic Bold font so I just looked for a Windows PC then submitted.)
 * BBM 1101 - Due March 1st 2019 (SUBMITTED)
-#### CAT2
 
-#### Semester Exam Timetable
+### Semester Exam Timetable
 
 Day/Date | Morning (8-10am) | Midday (11-1pm) | Afternoon(2-4pm)
 --- | --- | ---| ---
-Tuesday 16th April |   |   | BBM 1202 PRINCIPLES OF MARKETING
-Wednesday 17th April | BUCU COMMUNICATION SKILLS |   |   
-Thursday 18th April |   |   | BMA 1106 FOUNDATION MATHEMATICS
-Tuesday 21st April | BIT 1106 INTRODUCTION COMPUTER PAKAGES |   | BIT 1102 INTRODUCTION TO PROGRAMMING & ALGORITHIMS
-Wednesday 22nd April |  | BBM 1101 INTRODUCTION TO BUSINESS STUDIES |
+Tuesday 16th April 2019 |   |   | **BBM 1202*** PRINCIPLES OF MARKETING
+Wednesday 17th April 2019 | **BUCU 001*** COMMUNICATION SKILLS |   |   
+Thursday 18th April 2019 |   |   | **BMA 1106** FOUNDATION MATHEMATICS
+Tuesday 21st April 2019 | **BIT 1106** INTRODUCTION COMPUTER PACKAGES |   | **BIT 1102** INTRODUCTION TO PROGRAMMING & ALGORITHIMS
+Wednesday 22nd April 2019 |  | **BBM 1101*** INTRODUCTION TO BUSINESS STUDIES |

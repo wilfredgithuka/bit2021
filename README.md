@@ -31,4 +31,11 @@ wps. I was not successful in installing the Britannic Bold font so I just looked
 * BBM 1101 - Due March 1st 2019 (SUBMITTED)
 #### CAT2
 
-#### Semester Exam
+#### Semester Exam Timetable
+
+Day/Date | Morning (8-10am) | Midday (11-1pm) | Afternoon(2-4pm)
+--- | --- | ---
+*Still* | `renders` | **nicely**
+Tuesday 16th April | - | - | BBM 1202 PRINCIPLES OF MARKETING
+Wednesday 17th April | BUCU COMM.SKILLS | - | - 
+Thursday 18th April | - | - | BMA 1106 FOUND.MATH 

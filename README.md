@@ -35,8 +35,8 @@ wps. I was not successful in installing the Britannic Bold font so I just looked
 
 Day/Date | Morning (8-10am) | Midday (11-1pm) | Afternoon(2-4pm)
 --- | --- | ---| ---
-Tuesday 16th April 2019 |   |   | **BBM 1202*** PRINCIPLES OF MARKETING
-Wednesday 17th April 2019 | **BUCU 001*** COMMUNICATION SKILLS |   |   
+Tuesday 16th April 2019 |   |   | **BBM 1202** PRINCIPLES OF MARKETING
+Wednesday 17th April 2019 | **BUCU 001** COMMUNICATION SKILLS |   |   
 Thursday 18th April 2019 |   |   | **BMA 1106** FOUNDATION MATHEMATICS
 Tuesday 21st April 2019 | **BIT 1106** INTRODUCTION COMPUTER PACKAGES |   | **BIT 1102** INTRODUCTION TO PROGRAMMING & ALGORITHIMS
-Wednesday 22nd April 2019 |  | **BBM 1101*** INTRODUCTION TO BUSINESS STUDIES |
+Wednesday 22nd April 2019 |  | **BBM 1101** INTRODUCTION TO BUSINESS STUDIES |

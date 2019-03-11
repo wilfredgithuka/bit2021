@@ -34,8 +34,9 @@ wps. I was not successful in installing the Britannic Bold font so I just looked
 #### Semester Exam Timetable
 
 Day/Date | Morning (8-10am) | Midday (11-1pm) | Afternoon(2-4pm)
---- | --- | ---
-*Still* | `renders` | **nicely**
-Tuesday 16th April | - | - | BBM 1202 PRINCIPLES OF MARKETING
-Wednesday 17th April | BUCU COMM.SKILLS | - | - 
-Thursday 18th April | - | - | BMA 1106 FOUND.MATH 
+--- | --- | ---| ---
+Tuesday 16th April |   |   | BBM 1202 PRINCIPLES OF MARKETING
+Wednesday 17th April | BUCU COMMUNICATION SKILLS |   |   
+Thursday 18th April |   |   | BMA 1106 FOUNDATION MATHEMATICS
+Tuesday 21st April | BIT 1106 INTRODUCTION COMPUTER PAKAGES |   | BIT 1102 INTRODUCTION TO PROGRAMMING & ALGORITHIMS
+Wednesday 22nd April |  | BBM 1101 INTRODUCTION TO BUSINESS STUDIES |

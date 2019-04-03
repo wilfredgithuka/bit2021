@@ -38,5 +38,5 @@ Day/Date | Morning (8-10am) | Midday (11-1pm) | Afternoon(2-4pm)
 Tuesday 16th April 2019 |   |   | **BBM 1202** PRINCIPLES OF MARKETING 市场营销原理
 Wednesday 17th April 2019 | **BUCU 001** COMMUNICATION SKILLS 沟通技巧 |   |
 Thursday 18th April 2019 |   |   | **BMA 1106** FOUNDATION MATHEMATICS 基础数学
-Tuesday 21st April 2019 | **BIT 1106** INTRODUCTION COMPUTER PACKAGES 应用程序的简介 |   | **BIT 1102** INTRODUCTION TO PROGRAMMING & ALGORITHIMS 编程和算法简介
+Tuesday 23rd April 2019 | **BIT 1106** INTRODUCTION COMPUTER PACKAGES 应用程序的简介 |   | **BIT 1102** INTRODUCTION TO PROGRAMMING & ALGORITHIMS 编程和算法简介
 Wednesday 22nd April 2019 |  | **BBM 1101** INTRODUCTION TO BUSINESS STUDIES 商业研究概论 |

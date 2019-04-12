@@ -21,7 +21,7 @@ Code and assignments shall also be available here.
 
 ### CATs & Assignments
 
-* BMA 1106 - Due April 11th 2019
+* BMA 1106 - Due April 11th 2019 (SUBMITTED)
 * BBM 1202 - Due March 21st 2019 (SUBMITTED)
 * BUCU 001 - Due March 13th 2019 (SUBMITTED)
 * BIT 1102 - Due February 28th 2019 (SUBMITTED)

@@ -12,12 +12,21 @@ Code and assignments shall also be available here.
 
 ### Units
 
+#### Year1 Trimester1
 * BBM 1101 - Introduction to Business Studies
 * BBM 1202 - Principles of Marketing
 * BIT 1102 - Introduction to Programming & Algorithims
 * BIT 1106 - Introduction to Computer Application Packages
 * BMA 1106 - Foundation Mathematics
 * BUCU 001 - Communication Skills
+
+#### Year1 Trimester2
+
+* BIT 1201 - Database Systems
+* BIT 1208 - Structured Programming
+* BIT 2102 - Fundamentals of Internet
+* BIT 2206 - System Analysis and Design
+* BIT 1202 - Discrete Mathematics
 
 ### CATs & Assignments
 

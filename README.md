@@ -22,11 +22,13 @@ Code and assignments shall also be available here.
 
 #### Year1 Trimester2
 
+* BAF 1101 - Financial Accounting 1
+* BEG 2112 - Digital Electronics & Devices
 * BIT 1201 - Database Systems
 * BIT 1208 - Structured Programming
 * BIT 2102 - Fundamentals of Internet
 * BIT 2206 - System Analysis and Design
-* BIT 1202 - Discrete Mathematics
+* BMA 1202 - Discrete Mathematics
 
 ### CATs & Assignments
 

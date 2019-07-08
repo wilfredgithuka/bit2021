@@ -46,8 +46,9 @@ wps. I was not successful in installing the Britannic Bold font so I just looked
 
 Day/Date | Morning (8-10am) | Midday (11-1pm) | Afternoon(2-4pm)
 --- | --- | ---| ---
-Tuesday 16th April 2019 |   |   | **BBM 1202** PRINCIPLES OF MARKETING 市场营销原理
-Wednesday 17th April 2019 | **BUCU 001** COMMUNICATION SKILLS 沟通技巧 |   |
-Thursday 18th April 2019 |   |   | **BMA 1106** FOUNDATION MATHEMATICS 基础数学
-Tuesday 23rd April 2019 | **BIT 1106** INTRODUCTION COMPUTER PACKAGES 应用程序的简介 |   | **BIT 1102** INTRODUCTION TO PROGRAMMING & ALGORITHIMS 编程和算法简介
-Wednesday 24th April 2019 |  | **BBM 1101** INTRODUCTION TO BUSINESS STUDIES 商业研究概论 |
+Monday 19th August 2019 | **BEG 2112** DIGITAL ELECTRONICS ||
+Tuesday 20th August 2019 |   | **BAF 1101** FINANCIAL ACCOUNTING  | 
+Wednesday 21st August 2019 | **BIT 2206** SYSTEM ANLYSIS AND DESIGN | **BIT 1208** STRUCTURED PROGRAMMING  |
+Thursday 22nd August 2019 |   |   | 
+Friday 23rd August 2019 | **BIT 2102** FOUNDATION OF THE INTERNET |   |
+Saturday 24th August 2019 | **BIT 1201** DATABASE SYSTEMS | |

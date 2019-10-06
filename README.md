@@ -30,9 +30,19 @@ Code and assignments shall also be available here.
 * BIT 2206 - System Analysis and Design
 * BMA 1202 - Discrete Mathematics
 
+#### Year1 Trimester3
+
+* BBM 1201 - Principles of Management
+* BIT 1202 - Introduction to Web Design
+* BIT 2103 - Hardware & Software Installation
+* BIT 2104 - Operating Systems
+* BIT 3106 - OOP Programming
+* BMA 1104 - Probability & Statistics
+* BPY 1101 - Basic Electricity & Optics
+
 ### CATs & Assignments
 
-#### Session 1.1
+#### 1.1
 
 * BMA 1106 - Due April 11th 2019 (SUBMITTED)
 * BBM 1202 - Due March 21st 2019 (SUBMITTED)
@@ -44,15 +54,20 @@ Also the clip art for this assignment is not availale on wps. I used a Windows P
 wps. I was not successful in installing the Britannic Bold font so I just looked for a Windows PC then submitted.)
 * BBM 1101 - Due March 1st 2019 (SUBMITTED)
 
-#### Session 1.2
+#### 1.2
 
 * BAF 1101 - Due June 30th 2019 (LATE SUBMISSION)
-* BEG 2112 - Due July 10th 2019
+* BEG 2112 - Due July 10th 2019 (SUBMITTED)
 * BIT 1201 - Due June 28th 2019 (SUBMITTED)
-* BIT 1208 - Due July 14th 2019
-* BIT 2102 - Due July 18th 2019
+* BIT 1208 - Due July 14th 2019 (SUBMITTED)
+* BIT 2102 - Due July 18th 2019 (SUBMITTED)
 * BIT 2206 - Due July 7th  2019 (SUBMITTED)
-* BMA 1202 - Due July 12th 2019
+* BMA 1202 - Due July 12th 2019 (SUBMITTED)
+
+#### 1.3
+
+* BPY 1101 - Due September 30th 2019 (SUBMITTED)
+* BIT 1202 - Due October 12th 2019
 
 ### Semester Exam Timetable
 

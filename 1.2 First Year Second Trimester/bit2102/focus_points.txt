@@ -1,0 +1,29 @@
+Introduction to the internet
+History of the internet
+Services provided by the internet
+Hardware and software requirements for connecting to the internet
+How to get connected to Internet
+Structure of the internet
+Components of the internet such as web servers and search engine
+Domain name system
+Internet Routing
+Internet Network hierarchy in tiers i.e. tier 1, tier 2 and tier 3
+Internet protocols
+
+Web publishing
+Planning Cycle
+Design Cycle
+Design Basics
+Design considerations
+Introduction to HTML
+Basic HTML Concepts
+Creating a webpage
+HTML Tags
+Using Basic Formatting tags
+Using Heading tags
+Using Bold, Italics and Underline tags
+Paragraph tags
+Intermediate designer tags
+HTML Hyperlinks
+HTML Tables
+HTML Lists

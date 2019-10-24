@@ -69,10 +69,10 @@ wps. I was not successful in installing the Britannic Bold font so I just looked
 * BPY 1101 - Due September 30th 2019 (SUBMITTED)
 * BIT 1202 - Due October 13th 2019 (SUBMITTED)
 * BBM 1201 - Due November 10th 2019
+* BIT 2103 - Due November 11th 2019
 * BIT 3106 - Due November 15th 2019
+* BIT 2104 - Due November 18th 2019
 * BMA 1104 - Due November 29th 2019
-* BIT 2104 - No Assignment sent
-* BIT 2103 - No Assignment sent
 
 
 

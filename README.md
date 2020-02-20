@@ -39,6 +39,18 @@ Code and assignments shall also be available here.
 * BMA 1104 - Probability & Statistics
 * BPY 1101 - Basic Electricity & Optics
 
+### Year2
+
+#### Year2 - Trimester1
+
+* BIT2203 	Data Structure and Algorithms
+* BIT2204 	Data Communication and Networks
+* BIT2205 	Object oriented programming II
+* BIT3101 	Software Engineering
+* BIT3201 	Object Oriented Analysis and Design
+* BIT4204 	E-Commerce
+* BUCU003 	Development Studies
+
 ### CATs & Assignments
 
 #### 1.1
@@ -73,16 +85,19 @@ wps. I was not successful in installing the Britannic Bold font so I just looked
 * BIT 2104 - Due November 18th 2019 (SUBMITTED)
 * BMA 1104 - Due November 29th 2019
 
+#### 2.1
+
+* BIT3101 - Due 7th January 2019(LATE SUBMISSION)
 
 
 ### Semester Exam Timetable
 
 Day/Date | Morning (8-10am) | Midday (11-1pm) | Afternoon(2-4pm)
 --- | --- | ---| ---
-Monday 9th December 2019 |  |  | **BIT 3106** 面向对象编程 OBJECT ORIENTED PROGRAMMING
+Monday 9th December 2019 |  | **BIT 3106** 面向对象编程 OBJECT ORIENTED PROGRAMMING |
 Tuesday 10th December 2019 |   |  | **BIT 2014** 操作系统 OPERATING SYSTEMS
-Wednesday 11th December 2019 |  |  | **BBM 1201** 管理原理 PRINCIPLES OF MANAGEMENT
+Wednesday 11th December 2019 |  | **BPY 1101**  基础电学与光学 BASIC ELECTRICITY & OPTICS | **BBM 1201** 管理原理 PRINCIPLES OF MANAGEMENT
 Thursday 12th December 2019 |   |   |
 Friday 13th December 2019 | **BMA 1104** 概率统计 PROBABILITY & STATISTICS |  |
 Saturday 14th December 2019 | | **BIT 2103** 硬件与软件的安装 HARDWARE & SOFTWARE INSTALLATION |
-Monday 16th December 2019 |  |**BIT 1202** 网页设计概论 INTRODUCTION TO WEB DESIGN | **BPY 1101**  基础电学与光学 BASIC ELECTRICITY & OPTICS
+Monday 16th December 2019 |  |**BIT 1202** 网页设计概论 INTRODUCTION TO WEB DESIGN | 
